@@ -64,3 +64,4 @@ datetime
 hyperref
 fancyhdr
 fmtcount
+epstopdf-pkg
