@@ -58,10 +58,8 @@ zapfding
 babel-english
 marvosym
 wrapfig
-fontenc
 charter
 blindtext
 datetime
 hyperref
 fancyhdr
-graphicx
