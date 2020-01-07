@@ -59,6 +59,7 @@ babel-english
 marvosym
 wrapfig
 charter
+xcharter
 blindtext
 datetime
 hyperref
