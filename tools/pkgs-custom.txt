@@ -63,3 +63,4 @@ blindtext
 datetime
 hyperref
 fancyhdr
+fmtcount
