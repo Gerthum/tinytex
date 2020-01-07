@@ -67,3 +67,4 @@ fancyhdr
 fmtcount
 epstopdf-pkg
 cyrillic
+collection-fontsrecommended
