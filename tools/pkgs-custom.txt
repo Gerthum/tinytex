@@ -68,3 +68,4 @@ fmtcount
 epstopdf-pkg
 cyrillic
 collection-fontsrecommended
+ly1
